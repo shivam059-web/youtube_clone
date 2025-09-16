@@ -1,5 +1,5 @@
 .main-body{
-    height:2730px;
+    padding-top:130px;
     background-color: #181818;
 }
 .header-up{
@@ -131,4 +131,5 @@
     width:14px;
     height:14px;
     border-radius: 7px;
+
 }
