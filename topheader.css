@@ -1,3 +1,7 @@
+.p{
+    margin-bottom: 0;
+    margin-top:0;
+}
 .main-body{
     padding-top:130px;
     background-color: #181818;
@@ -133,3 +137,4 @@
     border-radius: 7px;
 
 }
+
