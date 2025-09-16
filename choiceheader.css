@@ -2,7 +2,7 @@
     height:55px;
     position:fixed;
     top:61px;
-    left:255px;
+    left:260px;
     right:35px;
     background-color:#181818;
     display:flex;
@@ -45,3 +45,4 @@
     cursor:pointer;
     width:160px;
 }
+
